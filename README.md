@@ -13,3 +13,4 @@
 ## Things I am currently learning
 - Data Structures and Algorithms
 - MQL5 coding language
+- Web Development

@@ -1,4 +1,4 @@
-# Hello Everyone I am Chiradeep and I am from TRIPURA, India 
+# <div align="center"> Hello Everyone 👋🏿👋🏿 I am Chiradeep from NE, India </div>
 
 ## My hobbies 
 - Sports
@@ -14,3 +14,4 @@
 - Data Structures and Algorithms
 - MQL5 coding language
 - Web Development
+- Peer to Peer Network

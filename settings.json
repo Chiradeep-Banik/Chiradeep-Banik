@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "editor.hover.delay": 100,
+    "mdb.useDefaultTemplateForPlayground": false,
+    "mdb.confirmRunAll": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#1a2237",
+        "statusBar.noFolderBackground": "#33336e",
+        "statusBar.debuggingBackground": "#1a2237",
+        "statusBarItem.remoteBackground": "#435fa7",
+        "titleBar.activeBackground": "#1a2237"
+    },
+    "editor.wordWrap": "on",
+    "workbench.preferredLightColorTheme": "Default Dark+",
+}

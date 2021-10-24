@@ -5,12 +5,10 @@
     "mdb.useDefaultTemplateForPlayground": false,
     "mdb.confirmRunAll": false,
     "workbench.colorCustomizations": {
-        "statusBar.background": "#1a2237",
-        "statusBar.noFolderBackground": "#33336e",
-        "statusBar.debuggingBackground": "#1a2237",
-        "statusBarItem.remoteBackground": "#435fa7",
-        "titleBar.activeBackground": "#1a2237"
+        "statusBar.background": "#313131",
+        "statusBarItem.remoteBackground": "#1261c9d2",
     },
     "editor.wordWrap": "on",
     "workbench.preferredLightColorTheme": "Default Dark+",
+    "editor.fontSize": 14
 }

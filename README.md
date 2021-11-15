@@ -23,3 +23,5 @@
 - [ ] Machine learning model to go through a huge set of dermatological condition photos and there diagnosises. And finally predict the desiease.
 - [ ] Making a web browser based on the chromium source. And also build an OS around it.
 - [ ] Making a VS Code theame around my colors.
+
+## CheckOut my Resume[here].(https://github.com/Chiradeep-Banik/Chiradeep-Banik/blob/master/RESUME.o.pdf)

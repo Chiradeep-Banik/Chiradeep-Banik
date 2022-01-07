@@ -16,7 +16,16 @@ call plug#begin()
     Plug 'preservim/nerdtree'
     " Automatically close parenthesis, etc
     Plug 'Townk/vim-autoclose'
+    " Stylish line for vim 
+    Plug 'vim-airline/vim-airline'
+    " Autocomplete for many languages
+    " Plug 'valloric/youcompleteme'
+    " Typescript Completion
+    " Plug 'quramy/tsuquyomi'
+    " Emmet for Vim
+    " Plug 'mattn/emmet-vim'
 call plug#end()
+
 " NerdTree
 autocmd VimEnter * NERDTree | wincmd p
 autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() |

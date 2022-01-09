@@ -91,6 +91,11 @@ fi
 alias ll='ls -lah'
 alias python='python3'
 alias d='du -h -d 1'
+alias update='sudo apt update'
+alias upgrade='sudo apt full-upgrade'
+alias list='apt list --upgradable'
+alias remove='sudo apt purge --autoremove'
+alias install='sudo apt install'
 #alias la='ls -A'
 #alias l='ls -CF'
 
@@ -118,4 +123,13 @@ stty werase \^H
 git_branch() {
   git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
 }
-PS1="\[\e[1;32m\](\T) \[\e[1;36m\]\w \[\e[36m\]\[\e[1;33m\]\$(git_branch)\n   \[\e[1;31m\]|-->>\[\e[0m\] "
+
+if [ $HOME == '/root' ]
+then
+    PS1="\[\e[1;32m\](\T) \[\e[1;31m\](root) \[\e[1;36m\]\w \[\e[36m\]\[\e[1;33m\]\$(git_branch)\n   \[\e[1;31m\]|-->>\[\e[0m\] "
+
+else
+    PS1="\[\e[1;32m\](\T) \[\e[1;36m\]\w \[\e[36m\]\[\e[1;33m\]\$(git_branch)\n   \[\e[1;31m\]|-->>\[\e[0m\] "
+fi
+
+# PS1="\[\e[1;32m\](\T) \[\e[1;36m\]\w \[\e[36m\]\[\e[1;33m\]\$(git_branch)\n   \[\e[1;31m\]|-->>\[\e[0m\] "

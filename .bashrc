@@ -96,6 +96,7 @@ alias upgrade='sudo apt full-upgrade'
 alias list='apt list --upgradable'
 alias remove='sudo apt purge --autoremove'
 alias install='sudo apt install'
+alias rg='ranger'
 #alias la='ls -A'
 #alias l='ls -CF'
 

@@ -6,15 +6,17 @@
 - Thriller Novels
 
 ## My Interests are 
-- Machine Learning 
-- Finance
-- Stocks and Forex trading
+- Machine Learning. 
+- Finance.
+- Stocks and Forex trading.
+- Distributed decentralized systems.
 
 ## Things I am currently learning
 - Data Structures and Algorithms
-- MQL5 coding language
 - Web Development
 - Peer to Peer Network
+- Distributed systems
+- Blockchains
 
 ## Ideas I wand to work on
 
@@ -23,5 +25,6 @@
 <!-- - [ ] Machine learning model to go through a huge set of dermatological condition photos and there diagnosises. And finally predict the desiease. -->
 - [ ] Making a web browser based on the chromium source. And also build an OS around it.
 - [ ] Making a new blockchain and implememt a token within that acts as an crypto index for the whole crypto market. Also implement Futures and Options for various crypto currencies. And a complete platform for people to trade them. 
+- [ ] Making a decentralized adult content website that could not be brought down by any authority.
 
 ## CheckOut my Resume[here](https://github.com/Chiradeep-Banik/Chiradeep-Banik/blob/master/RESUME.o.pdf).

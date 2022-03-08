@@ -100,8 +100,8 @@ alias shutdown='sudo systemctl poweroff'
 alias restart='sudo systemctl reboot'
 alias code='code-insiders'
 alias cod='code-insiders .;exit;'
-#alias la='ls -A'
-#alias l='ls -CF'
+alias autoremove='sudo apt autoremove'
+alias autoclean='sudo apt autoclean'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like

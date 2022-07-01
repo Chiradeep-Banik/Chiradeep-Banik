@@ -27,4 +27,4 @@
 - [ ] Making a new blockchain and implememt a token within that acts as an crypto index for the whole crypto market. Also implement Futures and Options for various crypto currencies. And a complete platform for people to trade them. 
 - [ ] Making a decentralized adult content website that could not be brought down by any authority.
 
-## CheckOut my Resume[here](https://github.com/Chiradeep-Banik/Chiradeep-Banik/blob/master/RESUME.o.pdf).
+## CheckOut my Resume[here](https://github.com/Chiradeep-Banik/Chiradeep-Banik/blob/master/ChiradeepBanik.Resume.pdf).

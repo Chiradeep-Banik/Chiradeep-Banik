@@ -11,6 +11,7 @@ set wrap
 set noswapfile
 set incsearch
 set hlsearch
+
 call plug#begin()
     " NerdTree
     Plug 'preservim/nerdtree'
@@ -18,6 +19,7 @@ call plug#begin()
     Plug 'Townk/vim-autoclose'
     " Stylish line for vim 
     Plug 'vim-airline/vim-airline'
+    Plug 'ryanoasis/vim-devicons'
     " Autocomplete for many languages
     " Plug 'valloric/youcompleteme'
     " Typescript Completion
